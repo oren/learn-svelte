@@ -6,7 +6,7 @@ How to start developing a svelte app?
 ```
 npx degit sveltejs/template svelte-app
 mv svelte-app my-cool-app
-cd svelte-app
+cd my-cool-app
 npm install
 npm run dev
 ```
