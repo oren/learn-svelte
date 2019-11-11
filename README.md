@@ -12,3 +12,6 @@ npm run dev
 ```
 
 Open the browser in localhost:5000 and update src/App.svelte
+
+## Resources
+* Chat: https://svelte.dev/chat
